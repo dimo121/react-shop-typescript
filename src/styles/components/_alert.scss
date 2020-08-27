@@ -1,0 +1,27 @@
+.alert-container {
+    padding-top: $l-size; 
+    text-align: center;
+    background: $light-blue;
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    margin: 100px auto;
+}
+
+.alert-container-button {
+    margin-top: 150px;
+    border-radius: 5px;
+    background: white;
+    height: 40px;
+    width: 80px;
+    position: relative;
+}
+
+.alert-container-button-internal {
+    margin-top: 40px;
+}
+
+.alert-container-alert {
+    font-size: $m-size;
+    color: white;
+}
