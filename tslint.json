@@ -3,8 +3,10 @@
   "rules": {
     "ordered-imports": false,
     "object-literal-sort-keys": false,
+    "member-access": true,
     "no-debugger": false,
-    "no-console": false
+    "no-console": false,
+    "jsx-no-lambda": false
   },
   "linterOptions": {
     "exclude": [

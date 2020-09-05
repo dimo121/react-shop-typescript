@@ -3,13 +3,14 @@
     text-align: center;
     background: $light-blue;
     border-radius: 20px;
+    color: white;
     width: 400px;
     height: 250px;
     margin: 100px auto;
 }
 
 .alert-container-button {
-    margin-top: 150px;
+    margin-top: 80px;
     border-radius: 5px;
     background: white;
     height: 40px;
@@ -18,10 +19,10 @@
 }
 
 .alert-container-button-internal {
-    margin-top: 40px;
+    margin-top: 75px;
 }
 
 .alert-container-alert {
+    margin-top: 50px;
     font-size: $m-size;
-    color: white;
 }
